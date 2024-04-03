@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PraktikaKapustnikov</string>
+    <string name="error_empty_content">Content can\'t be empty</string>
+    <string name="menu_edit">Edit</string>
+    <string name="menu_remove">Remove</string>
+    <string name="like">Like</string>
+    <string name="share">Share</string>
+
+
+</resources>

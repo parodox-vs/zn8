@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "author": "Бтпит. Учебное заведение",
+      "authorAvatar": "@sample/posts_avatars",
+      "published": "1 сентября в 8:00",
+      "content": "Всех студентов поздравляем с 1 сентября!",
+      "likedByMe": true,
+      "likes": 100,
+      "sharedByMe": true,
+      "share": 100
+    }
+  ]
+}
+
